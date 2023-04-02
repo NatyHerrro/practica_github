@@ -1,5 +1,4 @@
 # practica_github
  main
-Guido
 Paulo
-
+Guido
